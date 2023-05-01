@@ -1,4 +1,4 @@
-# mercadomovelleancanvas
+# Mercado Movel
 
 Aluno: Lucas Gabriel Silva Santos
 Estórias do usuário
