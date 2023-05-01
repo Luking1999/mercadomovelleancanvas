@@ -1,7 +1,7 @@
 # mercadomovelleancanvas
 
-
-# Estórias do usuário
+Aluno: Lucas Gabriel Silva Santos
+Estórias do usuário
 <ul>
  <li>Como um vendedor autônomo, eu gostaria de ter uma maneira mais fácil e rápida de processar pedidos, para que eu possa economizar tempo e me concentrar em fechar mais vendas.</li>
  <li>Como um gerente de vendas, eu gostaria de poder ver o histórico de vendas de cada vendedor, para que eu possa identificar os principais itens vendidos e ajudar a equipe a se concentrar nas áreas de maior sucesso.</li>
